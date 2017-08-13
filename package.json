@@ -1,0 +1,24 @@
+{
+  "name": "nodeclusterapp",
+  "version": "1.0.0",
+  "description": "Node Clustered App",
+  "main": "cluster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakshay/NodeClusterApp.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "cluster"
+  ],
+  "author": "Akshay Naik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakshay/NodeClusterApp/issues"
+  },
+  "homepage": "https://github.com/nakshay/NodeClusterApp#readme"
+}
